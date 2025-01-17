@@ -1,8 +1,8 @@
 # Data-Governance-Framework
-# StandardCo Data Governance Framework
+# ImagineeringCo Data Governance Framework
 
 ## Project Overview
-This repository contains a comprehensive data governance framework developed for StandardCo, a fictional retail company by Shallom Soyombo. The framework demonstrates implementation of data governance best practices, policies, and procedures.
+This repository contains a comprehensive data governance framework developed for ImagineeringCo, a fictional retail company by Shallom Soyombo. The framework demonstrates implementation of data governance best practices, policies, and procedures.
 
 ## Repository Structure
 
@@ -42,7 +42,7 @@ Visual documentation:
 4. Understand procedures in `/procedures`
 
 ## Contact
-Shallom Soyombo
+Shallom Soyombo /
 Data Governance Specialist
 https://www.linkedin.com/in/shallomsoyombo/
 ## Version History
