@@ -1,7 +1,7 @@
-# StandardCo Data Quality Policy
+# ImagineeringCo Data Quality Policy
 
 ## 1. Purpose
-This policy establishes the framework for ensuring and maintaining high-quality data across StandardCo's operations.
+This policy establishes the framework for ensuring and maintaining high-quality data across ImagineeringCo's operations.
 
 ## 2. Scope
 Applies to all business-critical data domains:

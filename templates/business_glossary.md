@@ -1,4 +1,4 @@
-# StandardCo Business Glossary
+# ImagineeringCo Business Glossary
 
 ## Document Information
 - Version: 1.0
@@ -6,12 +6,12 @@
 - Owner: Data Governance Team
 
 ## Purpose
-This business glossary provides standardized definitions for business terms used across StandardCo's data governance program.
+This business glossary provides standardized definitions for business terms used across ImagineeringCo's data governance program.
 
 ## Customer Data Terms
 
 ### Customer
-- Definition: An individual or organization that has made at least one purchase from StandardCo
+- Definition: An individual or organization that has made at least one purchase from ImagineeringCo
 - Business Owner: Customer Service Department
 - Related Terms: Prospect, Lead
 - Data Classification: Internal
